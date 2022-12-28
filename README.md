@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Head of Software Development. Technical Lead. Oracle Developer. Data Engineer. Full Stack Developer
 ---------------------------------------------------------------------------------------------------
 
-Mikhail is is a competent leader and software developer with over 15 years of experience in IT. Mikhail has a wide range of interests: building traditional and cloud data warehouses, modern approaches to large data set analysis and big data processing, developing frontend and backend applications using JavaScript and Python.
+Mikhail is a competent leader and software developer with over 15 years of experience in IT. Mikhail has a wide range of interests: building traditional and cloud data warehouses, modern approaches to large data set analysis and big data processing, developing frontend and backend applications using JavaScript and Python.
 
 * 🌍  I'm based in Antalya, Turkey
 * ✉️  You can contact me at [lyssikoff@gmail.com](mailto:lyssikoff@gmail.com)
