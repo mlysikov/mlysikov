@@ -8,7 +8,7 @@ Mikhail is a competent leader and software developer with over 15 years of exper
 
 * 🌍  I'm based in Antalya, Turkey
 * ✉️  You can contact me at [lyssikoff@gmail.com](mailto:lyssikoff@gmail.com)
-* 🚀  I'm currently working on [Convini.Pro](http://convini.pro)
+* 🚀  I'm currently working on [convini.pro](http://convini.pro)
 * 🧠  I'm learning Spark, Airflow, AWS, JavaScript, React, and React Native
 * 🤝  I'm open to collaborating on interesting and perspective projects
 
